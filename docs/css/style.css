@@ -50,6 +50,7 @@ body {
 	background-color: #ffcd27;
 	bottom: 64px;
 	max-height: calc(100vh - 128px);
+	max-width: 75%;
 	box-shadow: 5px 30px 80px rgba(19, 33, 94, 0.699);
 }
 
