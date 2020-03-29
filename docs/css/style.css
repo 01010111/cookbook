@@ -1,6 +1,7 @@
 * {
 	transition-duration: 200ms;
 	box-sizing: border-box;
+	image-rendering: pixelated;
 }
 
 body {
@@ -90,7 +91,9 @@ body {
 }
 
 #content img {
-	width: 100%;
+	max-width: 100%;
+	margin: 16px auto;
+	display: block;
 }
 
 h1 {
@@ -189,7 +192,7 @@ a:hover {
 }
 
 .page {
-	margin-bottom: 64px;
+	margin-bottom: 32px;
 }
 
 .hide {
