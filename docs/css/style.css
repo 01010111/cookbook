@@ -155,9 +155,10 @@ p {
 }
 
 a {
-	color: rgb(131, 122, 115);
+	color: rgb(0, 0, 0);
 	text-decoration: none;
 	font-style: italic;
+	background-color: #fff3cd;
 }
 
 a:hover {
@@ -199,4 +200,10 @@ pre {
 	margin: 32px;
 	max-width: 100%;
 	overflow-x: scroll;
+}
+
+p code {
+	background-color: rgb(240, 240, 240);
+	margin: 0 4px;
+	padding: 0 4px;
 }
