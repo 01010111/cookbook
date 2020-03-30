@@ -1,6 +1,8 @@
 # Contents
 
-## Code 🤖
+## Gamedev 🕹
+
+- [Autotiling](autotiling)
 
 ### HaxeFlixel
 
